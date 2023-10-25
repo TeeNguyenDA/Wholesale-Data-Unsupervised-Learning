@@ -1,4 +1,4 @@
-# machine_learning_project-unsupervised-learning
+# Wholesale-Data-Unsupervised-Learning
 
 In this Project, we are going to perform a full unsupervised learning machine learning project on a "Wholesale Data" dataset. The dataset refers to clients of a wholesale distributor. It includes the annual spending in monetary units (m.u.) on diverse product categories. The data source of this dataset is from [Kaggle](https://www.kaggle.com/datasets/binovi/wholesale-customers-data-set).
 
