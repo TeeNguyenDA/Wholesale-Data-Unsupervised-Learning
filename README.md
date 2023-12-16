@@ -39,7 +39,7 @@ The ultimate goal of the project is to gain insights from the data sets and comm
 
 ## Actual Project Flow:
 
-### Part I : EExploratory data analysis and pre-processing
+### Part I : Exploratory data analysis and pre-processing
 
 Include these steps:
 
